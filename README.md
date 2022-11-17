@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Programmer from India</h3>
 
 - 🌱 I’m currently learning **C++,Phython,html,java and pursuing a dgree in btech(Computer science and engineering(AI))**
-- 
+
 - 💭My Hobbies are **Coding,watching anime,reading books,reading manga/light novels and gaming**
 
 - ⚡ Fun fact **I think I am funny**

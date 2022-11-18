@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Yash Srivastava</h1>
-<h3 align="center">A passionate Programmer from India</h3>
+<h1 align="left">Hi 👋, I'm Yash Srivastava</h1>
+<h3 align="left">A passionate Programmer from India</h3>
 
 - 🌱 I’m currently learning **C++,Phython,html,java and pursuing a degree in btech(Computer science and engineering(AI))**
 
